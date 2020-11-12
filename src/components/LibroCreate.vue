@@ -1,7 +1,7 @@
 <template>
 <div>
     <h1>
-        Crea unos libros chidos
+        Crear unos libros chidos
     </h1>
     <form @submit.prevent="addLibro">
         <p>
